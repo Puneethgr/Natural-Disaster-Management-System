@@ -1,0 +1,2 @@
+# Natural-Disaster-Management-System
+ Disaster management system is a database system for collecting and reporting information related to natural disasters. In case of any natural disasters, the people from the nearby affected area can report the incident. This incident can be stored in the database and can be reported to the government officials so that they can take appropriate actions. We have used VISUAL STUDIO and POSTGRESQL for this project.
